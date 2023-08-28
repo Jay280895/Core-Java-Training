@@ -1,0 +1,7 @@
+1. Create maven project with latest aem archtype
+2. Create all 3 templates i.e. Homepage, blog and blogs
+3. Create all components present in all the pages using static html
+4. Separate out css and js and include them with their respective page
+5. Create Header and Footer component
+6. Create carousel multifield component
+7. Create published blogs on blogs page. Create osgi service that returns max no. of blogs to be displayed on blogs page via osgi config
